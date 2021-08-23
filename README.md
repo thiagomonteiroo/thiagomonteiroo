@@ -6,7 +6,3 @@
   </div>
   
   ##
-  
- <div>
-  ![Snake animation](https://github.com/thiagomonteiroo/thiagomonteiroo/blob/output/github-contribution-grid-snake.svg)
- </div>
