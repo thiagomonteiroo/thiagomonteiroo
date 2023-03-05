@@ -1,4 +1,4 @@
-## Apenas um programador por diversão
+## Foco em consistência e no aprendizado!!
   <div>
     <a href="https://github.com/thiagomonteiroo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomonteiroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
